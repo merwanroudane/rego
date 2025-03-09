@@ -1,17 +1,16 @@
 streamlit
 pandas
-numpy==1.23.5
+numpy== 1.26.4
 matplotlib
 seaborn
 scikit-learn
 statsmodels
 scipy
 pingouin
-dominance-analysis==0.0.7
+dominance-analysis== 1.1.9
 plotly
-bokeh==3.3.4
-pygments==2.15.0
-markdown-it-py==2.2.0
+bokeh==2.4.3
+pygments== 2.19.1
+markdown-it-py= 3.0.0
 mdurl==0.1.2
-rich==13.3.5
-
+rich== 13.9.4
