@@ -10,5 +10,8 @@ pingouin
 dominance-analysis==0.0.7
 plotly
 bokeh==3.3.4
-
+pygments==2.15.0
+markdown-it-py==2.2.0
+mdurl==0.1.2
+rich==13.3.5
 
